@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/black.jpg"  ]
+[preload  storage="./data/bgimage/CharaStudio-2026-01-16-22-58-02-Render.jpg"  ]
+[preload  storage="./data/bgimage/tei346888235777_cbabf83fe2a900ea1ab84853ae2d9e6b.jpg"  ]
+[preload  storage="./data/bgimage/01.jpg"  ]
+[preload  storage="./data/bgimage/02.jpg"  ]
+[return]

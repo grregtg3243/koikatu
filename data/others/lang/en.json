@@ -1,0 +1,30 @@
+{
+  "scenes": {
+    "title_screen.ks": {
+      "scenario": {},
+      "tag": {
+        "glink": {
+          "text": {
+            "はじめから": "start",
+            "つづきから": "load"
+          }
+        }
+      }
+    },
+    "scene1.ks": {
+      "scenario": {},
+      "tag": {}
+    }
+  },
+  "charas": {
+    "ガイド": ""
+  },
+  "tags": {
+    "glink": [
+      "text"
+    ],
+    "tb_ptext_show": [
+      "text"
+    ]
+  }
+}

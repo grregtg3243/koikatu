@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/black.jpg"  ]
+[preload  storage="./data/fgimage/default/01.jpg"  ]
+[preload  storage="./data/fgimage/default/a02.jpg"  ]
+[preload  storage="./data/fgimage/default/a04.jpg"  ]
+[preload  storage="./data/fgimage/default/a03.jpg"  ]
+[preload  storage="./data/fgimage/default/a05.jpg"  ]
+[preload  storage="./data/fgimage/default/a06.jpg"  ]
+[return]
