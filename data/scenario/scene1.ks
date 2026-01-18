@@ -71,6 +71,7 @@
 [tb_hide_message_window  ]
 [bg  time="0"  method="crossfade"  storage="black.jpg"  ]
 [bg  time="1000"  method="fadeIn"  storage="01.jpg"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 ……教室の扉が開いた瞬間、僕の視界に飛び込んできたのは、女子、女子、女子、女子！！！[p]
 
