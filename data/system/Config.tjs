@@ -2,7 +2,7 @@
 ;debugMenu.visible=false
 ;configSave=webstorage
 ;global.config_version=6.00
-;System.title=koikatu
+;System.title=Koikatu!
 ;projectID=koikatu
 ;game_version=0.0
 ;ScreenRatio=fix
@@ -19,7 +19,7 @@
 ;chSpeeds.fast=10
 ;chSpeeds.normal=30
 ;chSpeeds.slow=50
-;defaultChEffect=none
+;defaultChEffect=fadeIn
 ;defaultChEffectSpeed=0.2s
 ;skipSpeed=30
 ;skipEffectIgnore=true
@@ -71,15 +71,15 @@
 ;frameOpacity=128
 ;defaultAutoReturn=true
 ;marginRCh=2
-;defaultFontSize=26
+;defaultFontSize=24
 ;defaultLineSpacing=8
 ;defaultPitch=0
-;userFace=Quicksand, 游ゴシック体, Yu Gothic, YuGothic, ヒラギノ角ゴシック Pro, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, Osaka, ＭＳ Ｐゴシック, MS PGothic, sans-serif, Arial
+;userFace=sans-serif,'メイリオ'
 ;defaultChColor=0xffffff
 ;defaultBold=false
 ;defaultRubySize=10
 ;defaultRubyOffset=-2
-;defaultAntialiased=1
+;defaultAntialiased=2
 ;defaultShadow=false
 ;defaultShadowColor=0x000000
 ;defaultEdge=false

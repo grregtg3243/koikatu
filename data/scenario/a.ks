@@ -273,7 +273,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[tb_image_show  time="1000"  storage="default/a06.jpg"  width="1288"  height="725"  x=""  y=""  _clickable_img=""  ]
+[tb_image_show  time="1000"  storage="default/a06.jpg"  width="1288"  height="725"  x=""  y=""  _clickable_img=""  name="img_21"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 そして童貞喪失。[p]
@@ -283,7 +283,9 @@
 #亜香里
 「つ、次は私っ！！　柏木くんに処女捧げられて幸せです！！」[p]
 #
-（まさか転入して初日に二人の女の子とエッチしちゃうなんて。こんなことエッチなラノベでも有り得ない！　これって、付き合うことになるのかな？　どっちと？　まさか、二人と……？　そんな都合良いこと有り得ないか。どっちかを選ぶのかな。どうしよう）[p]
+（まさか転入して初日に二人の女の子とエッチしちゃうなんて。こんなことエッチなラノベでも有り得ない！）[p]
+（これって、付き合うことになるのかな？　どっちと？　まさか、二人と……？）[p]
+（そんな都合良いこと有り得ないか。どっちかを選ぶのかな。どうしよう！！）[p]
 なんて思っていると……[p]
 #博美
 「事後確認でゴメンね。これで……私達二人と付き合ったってことで良いのかな？」[p]
@@ -314,6 +316,6 @@
 
 [tb_hide_message_window  ]
 [tb_image_hide  time="1000"  ]
-[tb_replay  ]
-[jump  storage="main.ks"  target="*start"  ]
+[tb_replay  id="a"  ]
+[jump  storage="replay.ks"  target="*start"  ]
 [s  ]

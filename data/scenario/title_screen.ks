@@ -19,7 +19,9 @@ tf.bg_name = "bg_" + tf.random_num + ".jpg";
 [_tb_end_tyrano_code]
 
 [glink  color="btn_09_yellow"  text="はじめから"  x="295"  y="474"  size="20"  target="*start"  width="685"  height="55"  _clickable_img=""  ]
-[glink  color="btn_09_purple"  text="つづきから"  x="295"  y="550"  size="20"  target="*load"  width="685"  height="55"  _clickable_img=""  ]
+[glink  color="btn_09_purple"  text="続きから"  x="295"  y="550"  size="20"  target="*load"  width="685"  height="55"  _clickable_img=""  ]
+[glink  color="btn_24_green"  storage="title_screen.ks"  size="20"  target="*en"  text="English"  x="1110"  y="560"  width=""  height=""  _clickable_img=""  ]
+[glink  color="btn_24_green"  storage="title_screen.ks"  size="20"  target="*jp"  text="日本語"  x="1110"  y="635"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *start
 
@@ -37,4 +39,14 @@ tf.bg_name = "bg_" + tf.random_num + ".jpg";
 [showload]
 
 [jump  target="*title"  storage=""  ]
+[s  ]
+*en
+
+[tb_lang_set  name="en"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*jp
+
+[tb_lang_set  name="default"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
 [s  ]

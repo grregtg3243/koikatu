@@ -1,0 +1,55 @@
+{
+  "scenes": {
+    "null": {
+      "scenario": {},
+      "tag": {}
+    },
+    "replay.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "main.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "scene1.ks": {
+      "scenario": {},
+      "tag": {
+        "glink": {
+          "text": {
+            "プロローグを見る": "Prologue",
+            "プロローグを飛ばす": "Prologue Skip"
+          }
+        }
+      }
+    },
+    "title_screen.ks": {
+      "scenario": {},
+      "tag": {
+        "glink": {
+          "text": {
+            "はじめから": "START",
+            "続きから": "LOAD"
+          }
+        }
+      }
+    }
+  },
+  "charas": {
+    "五条目博美（左）": "",
+    "霊堂亜香里（右）": "",
+    "二人": "",
+    "霊堂亜香里": "",
+    "五条目博美": "",
+    "亜香里": "",
+    "博美": ""
+  },
+  "tags": {
+    "glink": [
+      "text"
+    ],
+    "tb_ptext_show": [
+      "text"
+    ]
+  }
+}
