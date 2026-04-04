@@ -301,8 +301,8 @@
 そして、これが――始まりでもあった。[p]
 [_tb_end_text]
 
-[tb_image_hide  time="1000"  ]
 [tb_hide_message_window  ]
+[tb_image_hide  time="1000"  ]
 [tb_replay  ]
 [jump  storage="replay.ks"  target="*start"  ]
 [s  ]

@@ -1,5 +1,3 @@
 [hidemenubutton] 
-[eval exp="f._system_preview_ks='b.ks'"] 
-[preload  storage="./data/fgimage/default/b03.jpg"  ]
-[preload  storage="./data/fgimage/default/b04.jpg"  ]
+[eval exp="f._system_preview_ks='c.ks'"] 
 [return] 

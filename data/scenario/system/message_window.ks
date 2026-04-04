@@ -7,7 +7,7 @@
 			[position page=fore margint=20 marginl=20 marginr=20 marginb=0 vertical=false opacity="180" radius="0" color="0x000000" ]
 		
 
-		[ptext name="chara_name_area" layer="message0" color=0xFFFFFF size=26 x=30 y=427 bold="bold" edge="undefined" shadow="undefined"]
+		[ptext name="chara_name_area" layer="message0" color=0xFFFFFF size=24 x=30 y=427 bold="bold" edge="undefined" shadow="undefined"]
 
 		;キャラクターの表示モードに関する定義
 		[chara_config ptext="chara_name_area" pos_mode=true time="600" memory="false" anim="true" effect="easeInQuad" pos_change_time="600" ]

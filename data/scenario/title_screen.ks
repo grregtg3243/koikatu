@@ -11,7 +11,7 @@
 [tb_start_tyrano_code]
 [iscript]
 // ここはJavaScriptのルールで書く
-tf.random_num = Math.floor(Math.random() * 6);
+tf.random_num = Math.floor(Math.random() * 10);
 tf.bg_name = "bg_" + tf.random_num + ".jpg";
 [endscript]
 

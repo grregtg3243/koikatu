@@ -2,7 +2,7 @@
 
 
 
-[plugin name="theme_kopanda_05_HD" font_color="0x504139" name_color="0xC5004C" opacity="255" ]
+[plugin name="theme_kopanda_05_HD" font_color="0x504139" name_color="0xc5004c" opacity="150" ]
 
 
 [mask time=10]
